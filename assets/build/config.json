@@ -1,0 +1,8 @@
+{
+    "entry": {
+        "global": "./assets/src/entrypoints/global/index.tsx"
+    },
+    "staticFilesPath": "./assets/static",
+    "outputPath": "public/build",
+    "basePath": "build/"
+}
